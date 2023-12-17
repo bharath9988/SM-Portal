@@ -1,0 +1,10 @@
+{    
+    "/**": {
+        "target": "https://smpapidev.caas-cnp-apps-noprod.com.intraorange/apigateway/portalapi/",
+        "secure": false,
+        "changeOrigin": true
+       
+    }
+   
+
+}

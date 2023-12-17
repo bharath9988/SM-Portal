@@ -1,0 +1,5 @@
+---
+include:
+  - project: 'CDAM_G2C/smportal_conf'
+    ref: master
+    file: '/templates/gitlab/gitlab-ci-smportal-frontend.yml'
